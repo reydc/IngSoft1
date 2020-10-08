@@ -1,4 +1,4 @@
-## Take-Home (2020)
+# Take-Home (2020)
 
 Consiste en hacer analisis de tres módulos de una posible implementación del juego "Secret Voldemort":
 
