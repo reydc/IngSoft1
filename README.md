@@ -1,5 +1,5 @@
 # Ingeniería de Software I
-Notas y referencias para la materia de Ingeniería de Software I de FaMAFyC/FaMAF
+Notas y referencias para la materia de Ingeniería de Software I de FaMAFyC/FaMAF.  
 
 ### Referencias de la materia
 
@@ -36,7 +36,13 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 * [SOLID (https://en.wikipedia.org)](https://en.wikipedia.org/wiki/SOLID)  
 Nota: Ver los pdfs archivados al final.
 
-#### DevOps
+#### Scrum  
+
+* [Las guías de Scrum](https://scrumguides.org/), hay pdfs en varios idiomas  
+* [The Scrum Papers (http://jeffsutherland.com, archivado)](https://web.archive.org/web/20150814201800/http://jeffsutherland.com/ScrumPapers.pdf)  
+* [The Scrum Software Development Process for Small Teams (IEEE Software, 2000)](https://web.archive.org/web/20061027213837/http://members.cox.net/risingl1/articles/IEEEScrum.pdf)  
+
+#### DevOps  
 
 * [Agile Vs. DevOps: What’s the difference? (https://www.guru99.com)](https://www.guru99.com/agile-vs-devops.html)  
 * [DevOps methodology and process (https://medium.com/@raycad.seedotech)](https://medium.com/@raycad.seedotech/devops-methodology-and-process-dde388eb65bd)  
