@@ -27,6 +27,7 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 ### Lecturas (propias) en la Web  
 
 #### Panorama general
+
 * [Cargo Cult Programming (http://www.softpanorama.org)](http://www.softpanorama.org/Skeptics/cargo_cult_programming.shtml)  
 * [Cargo Cult Software Engineering (https://stevemcconnell.com)](https://stevemcconnell.com/articles/cargo-cult-software-engineering/)  
 
@@ -34,6 +35,11 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 
 * [SOLID (https://en.wikipedia.org)](https://en.wikipedia.org/wiki/SOLID)  
 Nota: Ver los pdfs archivados al final.
+
+#### DevOps
+
+* [Agile Vs. DevOps: What’s the difference? (https://www.guru99.com)](https://www.guru99.com/agile-vs-devops.html)  
+* [DevOps methodology and process (https://medium.com/@raycad.seedotech)](https://medium.com/@raycad.seedotech/devops-methodology-and-process-dde388eb65bd)  
 
 #### https://www.joelonsoftware.com (el blog de Joel Spolsky)
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
