@@ -30,11 +30,13 @@ Tiempo de entrega: 1 semana y 5 días
 * En general los casos de uso se basan en lo intercambiado con los profesores y esto se intentó hacer ver reflejado en la descripción de cada uno de ellos. Un tema importante es la consistencia entre diagramas y los casos de uso. En la forma en que hice este proyecto no se ve del todo y esto se debe a que se estuvo trabajando y modificando los diagramas mientras se redactaban y modificaban los casos de uso. En consecuencia ocurrieron inconcistencias a nivel de relación de elementos y agregación/eliminación de elementos, tanto para las clases propuetas como para los procesos pensados y reflejados en el DFD.  
 * Otros problemas pueden traer las clases que sirven como medio de interación entre otras clases, ya que tenemos que tener en cuenta qué es lo que intercambian, qué datos deben compartir (se puede traducir en un atributo que es accedesible para otras clases), y si es una clase padre para algunas relaciones.  
 
-Parte de la evaluación
+#### Parte de la evaluación (revisión del módulo de Partidas)
 
 Explicación de casos de uso:  
+Aparentemente está lo que se pide.  
 
 Revisión del DFD de Partidas:  
+Inconsistencia con los casos de uso, puesto que no figura algo que de cuenta del chat antes de iniciar una partida. Clara omisión debido a la consideración de sólo los elementos estáticos cuando se instancia algo de clase Partida, y no pensando en la interacción de los jugadores.  
 
 Revisión del DC de Partidas:  
-
+Agregar una clase que no hace nada excepto contener a otra (el Chat estaría compuesto por MensajeChat). Esto ocurrió porque a la hora de entregar no me decidí por mejorar la parte del chat, pues la clase quedaba vacía en atributos o métodos, cuando debería haber tenido atributos que serían compartidos por los clientes del chat (los jugadores) que están correctamente relacionados. Así en los mensajes fueron agregados cosas que no deberían estar controladas por los clientes, como la hora de envío (pues debería considerar que en la forma en que está en el diagrama, parece que la hora de envío es local, mientras que lo que quiero es que sea la hora del servidor). Aspectos del servicio que también se deberían considerar a la hora del análisis del módulo.  
