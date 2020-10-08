@@ -32,6 +32,9 @@ Tiempo de entrega: 1 semana y 5 días
 
 #### Parte de la evaluación (revisión del módulo de Partidas)
 
+Alcance:  
+Ser más eficiente en la explicación con el cliente, situar el módulo en el contexto del sistema propuesto (el juego).  
+
 Explicación de casos de uso:  
 Aparentemente está lo que se pide.  
 
