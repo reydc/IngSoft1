@@ -9,7 +9,7 @@ Notas y referencias para la materia de Ingeniería de Software I de FaMAFyC/FaMA
 
 ### Referencias complementarias
 
-* [Ko, Amy J. - Cooperative Software Development (en su sitio)](https://web.archive.org/web/20200508175222/https://faculty.washington.edu/ajko/books/cooperative-software-development/)  
+* [Ko, Amy J. - Cooperative Software Development](https://faculty.washington.edu/ajko/books/cooperative-software-development/#/)  
 
 ### Artículos
 
