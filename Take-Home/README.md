@@ -17,11 +17,11 @@ Tiempo de entrega: 1 semana y 5 días
 
 ---
 
-### Observaciones sobre proyectos de este tipo (alumno)
+## Observaciones sobre proyectos de este tipo (alumno)
 
 Conclusiones que he sacado haciendo el proyecto
 
-#### Comprensión del problema
+#### Comprensión del problema  
 
 
 #### Casos de uso  
@@ -35,7 +35,7 @@ Conclusiones que he sacado haciendo el proyecto
 
 ---
 
-### Feedback (evaluación)
+## Feedback (evaluación)
 
 * Se hace énfasis en la comunicación verbal y ser preciso. Quizá está bien tratar de explicar el proceso por el cual se decidió tomar una clase como parte de otra, una burbuja como un proceso de alto nivel, o la interpretación de un enunciado sobre los requerimientos por parte de un profesor.  
 * Cuando dicen ser general respecto al alcance se refieren a explicar desde lo general del software (en este proyecto nos referimos concretamente al juego "Secret Voldemort") hasta el módulo, no partiendo del módulo que se toma para evaluar.  
