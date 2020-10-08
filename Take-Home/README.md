@@ -19,6 +19,18 @@ Tiempo de entrega: 1 semana y 5 días
 
 ### Observaciones sobre proyectos de este tipo (alumno)
 
+Conclusiones que he sacado haciendo el proyecto
+
+#### Comprensión del problema
+
+
+#### Casos de uso  
+
+
+#### Diagrama de Flujo de Datos  
+
+
+### Diagrama de clases  
 
 
 ---
