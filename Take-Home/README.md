@@ -14,3 +14,13 @@ Para cada uno de ellos se debe entregar:
 - Diagrama de clases
 
 Tiempo de entrega: 1 semana y 5 días
+
+### Feedback (evaluación)
+
+* Se hace énfasis en la comunicación verbal y ser preciso. Quizá está bien explicar y tratar de explicar el proceso por el cual se decidió tomar una clase como parte de otra, una burbuja como un proceso de alto nivel, o la interpretación de un enunciado sobre los requerimientos por parte de un profesor.  
+* Cuando dicen ser general respecto al alcance se refieren a explicar desde lo general del juego hasta el módulo, no partiendo del módulo que se toma para evaluar.  
+* En general los casos de uso se basan en lo intercambiado con los profesores y esto se intentó hacer ver reflejado en la descripción de los casos de uso. Pero eso no se ve fielmente reflejado en los diagramas.  
+
+DFD de Partidas: 
+
+DC de Partidas:
