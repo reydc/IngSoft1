@@ -14,7 +14,7 @@ Notas y referencias para la materia de Ingeniería de Software I de FaMAFyC/FaMA
 ### Artículos
 
 * Brooks - No Silver Bullet: Essence and Accidents of Software Engineering (1986)  
-Nota: Es también un capítulo de "The Mythical Man-Month", al menos en la edición de arriba
+Nota: Es también un capítulo de "The Mythical Man-Month".
 * Parnas - Software Engineering: An Unconsummated Marriage (Communications of the ACM, Volume 40, Issue 9, ACM Press, 1997)  
 * Glass - The Relationship Between Theory and Practice in Software Engineering (Communications of the ACM, Volume 39, Issue 11, ACM Press, 1996)  
 
