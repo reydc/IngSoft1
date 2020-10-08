@@ -19,7 +19,7 @@ Tiempo de entrega: 1 semana y 5 días
 
 ## Observaciones sobre proyectos de este tipo (alumno)
 
-Conclusiones que he sacado haciendo el proyecto
+Algunas lecciones que he obtenido haciendo el proyecto.  
 
 #### Comprensión del problema  
 
@@ -37,11 +37,23 @@ Conclusiones que he sacado haciendo el proyecto
 
 - Por el punto anterior es factible que cuando hayamos completado un caso de uso más "adyacente" respecto a otro tengamos más información para corregir al otro, pudiendo desafiar nuestras presunciones acerca de las precondiciones, los actores, los escenarios alternativos o la posible adición/eliminación de subcasos. Incluso podemos obtener información de un caso de uso para un módulo cuando terminamos un caso de uso de un módulo que es de más "bajo nivel" o que sería un submódulo de este último. También debemos considerar que si los módulos sirven para gestionar servicios más generales, las partes dinámicas de cierta pieza de software, las partes estáticas, y las interacciones entre subsistemas.  
 
+- Si no vemos un módulo que estaría ejerciendo un cierto control o chequeo, no significa que este no exista. De alguna forma se chequean algunas condiciones de control para pasar de un comportamiento o conjunto de comportamientos a otros. Imaginar que están ahí, aún cuando nos centremos en lo que ocurre en el módulo objetivo.  
+
 #### Diagrama de Flujo de Datos  
 
-- 
+- Hay que hacer un esfuerzo consciente para no pasar flags o "variables de control" que no sean realmente datos para los procesos. En tal caso estaríamos pensando en condiciones y los procesos sujetos a ejecución según esas condiciones.  
+
+- Considerar que transformaciones de datos se corresponden con los casos de uso ¿Están todos? ¿Qué falta? ¿Por qué falta? ¿Realmente se lo puede agregar al DFD o más bien implicaría un procedimiento y no una transformación? ¿Qué transformación de datos implica si no es una transformación en sí?
+
+- Es más fácil agregar cosas que extraerlas. 
+
+- Las flechas que contienen, exclusivamente, información de control deberían ser eliminadas. Si llevan información sobre cierta condición deberían acompañar otros datos que no sean de control sino que sirvan para hacer una transformación necesaria o eliminar esa información que indique la condición, pues lo que interesa es lo que se transforma.  
+
+- Cuando se éste construyendo el Diccionario de Datos, considerar que datos serían los más primitivos y cuales serían los más compuestos. Un dato que es básico o suponemos dado en un módulo no necesariamente es un dato básico en otro. Si hay más de un módulo y uno da cuenta de cómo está compuesto cierto dato, en otro módulo podemos considerarlo como referencia. 
 
 #### Diagrama de clases  
+
+- 
 
 - 
 
@@ -68,7 +80,7 @@ Explicación de casos de uso:
 Aparentemente está lo que se pide.  
 
 Revisión del DFD de Partidas:  
-Inconsistencia con los casos de uso, puesto que no figura algo que de cuenta del chat antes de iniciar una partida. Clara omisión debido a la consideración de sólo los elementos estáticos cuando se instancia algo de clase Partida, y no pensando en la interacción de los jugadores.  
+Inconsistencia con los casos de uso, puesto que no figura algo que dé cuenta del chat antes de iniciar una partida. Clara omisión debido a la consideración de sólo los elementos estáticos cuando se instancia algo de clase Partida, y no pensando en la interacción de los jugadores.  
 
 Revisión del DC de Partidas:  
 Agregar una clase que no hace nada excepto contener a otra (el Chat estaría compuesto por MensajeChat). Esto ocurrió porque a la hora de entregar no me decidí por mejorar la parte del chat, pues la clase quedaba vacía en atributos o métodos, cuando debería haber tenido atributos que serían compartidos por los clientes del chat (los jugadores) que están correctamente relacionados. Así en los mensajes fueron agregados cosas que no deberían estar controladas por los clientes, como la hora de envío (pues debería considerar que en la forma en que está en el diagrama, parece que la hora de envío es local, mientras que lo que quiero es que sea la hora del servidor). Aspectos del servicio que también se deberían considerar a la hora del análisis del módulo.  
