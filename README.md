@@ -33,6 +33,7 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 #### Orientación a Objetos
 
 * [SOLID (https://en.wikipedia.org)](https://en.wikipedia.org/wiki/SOLID)  
+Nota: Ver los pdfs archivados al final.
 
 #### https://www.joelonsoftware.com (el blog de Joel Spolsky)
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
