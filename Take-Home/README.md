@@ -45,7 +45,7 @@ Algunas lecciones que he obtenido haciendo el proyecto.
 
 - Considerar que transformaciones de datos se corresponden con los casos de uso ¿Están todos? ¿Qué falta? ¿Por qué falta? ¿Realmente se lo puede agregar al DFD o más bien implicaría un procedimiento y no una transformación? ¿Qué transformación de datos implica si no es una transformación en sí?
 
-- Es más fácil agregar cosas que extraerlas. 
+- Es más fácil agregar cosas que extraerlas.  
 
 - Las flechas que contienen, exclusivamente, información de control deberían ser eliminadas. Si llevan información sobre cierta condición deberían acompañar otros datos que no sean de control sino que sirvan para hacer una transformación necesaria o eliminar esa información que indique la condición, pues lo que interesa es lo que se transforma.  
 
@@ -53,9 +53,17 @@ Algunas lecciones que he obtenido haciendo el proyecto.
 
 #### Diagrama de clases  
 
-- 
+- Considerar qué clases componen unas a otras y cuáles pueden ser modeladas de forma más aislada.  
 
-- 
+- Considerar si hay varías clases que deban cohesionar y fijarse si se pueden agregar unas a otras.  
+
+- Considerar cuáles son los ciclos de vida de las clases y si están relacionadas con clases cuyos ciclos de vida no dependan de ellas.  
+
+- Ser consistente con los casos de uso y con las transformaciones de datos.  
+
+- No agregar métodos que no modifiquen los atributos de esa clase.  
+
+- Cuidar los aspectos reales que pueden impactar los atributos de una clase.  
 
 ---
 
@@ -73,14 +81,14 @@ Algunas lecciones que he obtenido haciendo el proyecto.
 
 #### Parte de la evaluación (revisión del módulo de Partidas)
 
-Alcance:  
+1. Alcance:  
 Ser más eficiente en la explicación con el cliente, situar el módulo en el contexto del sistema propuesto (el juego).  
 
-Explicación de casos de uso:  
+2. Explicación de casos de uso:  
 Aparentemente está lo que se pide.  
 
-Revisión del DFD de Partidas:  
+3. Revisión del DFD de Partidas:  
 Inconsistencia con los casos de uso, puesto que no figura algo que dé cuenta del chat antes de iniciar una partida. Clara omisión debido a la consideración de sólo los elementos estáticos cuando se instancia algo de clase Partida, y no pensando en la interacción de los jugadores.  
 
-Revisión del DC de Partidas:  
+4. Revisión del DC de Partidas:  
 Agregar una clase que no hace nada excepto contener a otra (el Chat estaría compuesto por MensajeChat). Esto ocurrió porque a la hora de entregar no me decidí por mejorar la parte del chat, pues la clase quedaba vacía en atributos o métodos, cuando debería haber tenido atributos que serían compartidos por los clientes del chat (los jugadores) que están correctamente relacionados. Así en los mensajes fueron agregados cosas que no deberían estar controladas por los clientes, como la hora de envío (pues debería considerar que en la forma en que está en el diagrama, parece que la hora de envío es local, mientras que lo que quiero es que sea la hora del servidor). Aspectos del servicio que también se deberían considerar a la hora del análisis del módulo.  
