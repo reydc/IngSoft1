@@ -27,19 +27,23 @@ Conclusiones que he sacado haciendo el proyecto
 
 - Sin embargo nos piden desarrollar módulos en un mismo producto. En este caso parece que la dificultad es la descripción consistente, en distintos niveles, de los módulos y la posible interacción entre ellos. Entonces hay que considerar como organizar cada módulo de forma que esa organización tenga una alta cohesión y un bajo acoplamiento para las tareas que son requeridas en el proyecto, cuidando la comunicación con los clientes (profesores).  
 
+- Las decisiones en la etapa de análisis impactan al diseño. Acá podemos apreciar cómo es que el modelado y el análisis nos pueden llevar a diseñar muchos más aspectos de los que realmente deseamos.  
+
 #### Casos de uso  
 
 - Se derivan de observar el reglamento, y los huecos que pudieran haber en la descripción de los casos de uso (a partir de la descripción del comportamiento entre los jugadores) se los completa con los requerimientos y aspectos pedidos por los clientes. La ventaja es que como existe un reglamento debemos respetar prioritariamente las reglas y después observar lo que piden específicamente los clientes.  
 
 - En este proyecto se piden tres casos de uso, pero puede ocurrir que para que hay un desarrollo consistente, de acuerdo a las reglas, sea necesario desarrollar aquellos que sean "adyacentes" a ellos. En este caso tenemos una ayuda más para comprender el problema visto desde este punto de vista.  
 
-- Por el punto anterior es factible que cuando hayamos completado un caso de uso más "adyacente" respecto a otro tengamos más información para corregir al otro, pudiendo desafiar nuestras presunciones acerca de las precondiciones, los actores, los escenarios alternativos o la posible adición/eliminación de subcasos. Incluso podemos obtener información de un caso de uso para un módulo cuando terminamos un caso de uso de un módulo que es de más "bajo nivel" o que sería un submódulo de este último. También debemos considerar que si los módulos sirven para gestionar servicios más generales, la parte dinámica de cierta pieza de software o la parte estática, las interacciones entre subsistemas.  
+- Por el punto anterior es factible que cuando hayamos completado un caso de uso más "adyacente" respecto a otro tengamos más información para corregir al otro, pudiendo desafiar nuestras presunciones acerca de las precondiciones, los actores, los escenarios alternativos o la posible adición/eliminación de subcasos. Incluso podemos obtener información de un caso de uso para un módulo cuando terminamos un caso de uso de un módulo que es de más "bajo nivel" o que sería un submódulo de este último. También debemos considerar que si los módulos sirven para gestionar servicios más generales, las partes dinámicas de cierta pieza de software, las partes estáticas, y las interacciones entre subsistemas.  
 
 #### Diagrama de Flujo de Datos  
 
+- 
 
 #### Diagrama de clases  
 
+- 
 
 ---
 
