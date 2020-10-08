@@ -1,6 +1,6 @@
 # Take-Home (2020)
 
-Consiste en hacer analisis de tres módulos de una posible implementación del juego "Secret Voldemort":
+Consiste en hacer analisis de tres módulos de una posible implementación del juego ["Secret Voldemort"](https://thecraftyplayers.com/2017/02/22/secret-voldemort/):
 
 * Módulo de Usuarios
 * Módulo de Turno
