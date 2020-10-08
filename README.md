@@ -16,3 +16,6 @@ Nota: Es también un capítulo de "The Mythical Man-Month", al menos en la edici
 
 ### Lectura en Internet
 
+* [Richard Feynman, the Challenger Disaster, and Software Engineering (https://manybutfinite.com)](https://manybutfinite.com/post/richard-feynman-challenger-disaster-software-engineering/)  
+* [Computer Program Fixes Old Code Faster than Expert Engineers (https://thelasttechie.com, archivado)](https://web.archive.org/web/20161105164220/https://thelasttechie.com/2016/09/15/computer-program-fixes-old-code-faster-than-expert-engineers/)  
+* [Practical UML: A Hands-On Introduction for Developers (http://edn.embarcadero.com, archivado)](https://archive.is/evoLk)  
