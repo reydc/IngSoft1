@@ -23,9 +23,17 @@ Conclusiones que he sacado haciendo el proyecto
 
 #### Comprensión del problema  
 
+- El enunciado es claro. Hay un juego de mesa que tiene un reglamento que prescribe como se desarrolla, sus reglas y situaciones excepcionales, los elementos para el desarrollo del juego, las etapas de desarrollo del juego, los participantes, etc. Si no nos dieran el reglamento y nos dieran una tarea para el cual habría que observar el comportamiento de un sistema (por ejemplo otro juego) deberíamos considerar ítems igualmente parecidos. Entonces el proyecto queda simplificado por ese lado.  
+
+- Sin embargo nos piden desarrollar módulos en un mismo producto. En este caso parece que la dificultad es la descripción consistente, en distintos niveles, de los módulos y la posible interacción entre ellos. Entonces hay que considerar como organizar cada módulo de forma que esa organización tenga una alta cohesión y un bajo acoplamiento para las tareas que son requeridas en el proyecto, cuidando la comunicación con los clientes (profesores).  
 
 #### Casos de uso  
 
+- Se derivan de observar el reglamento, y los huecos que pudieran haber en la descripción de los casos de uso (a partir de la descripción del comportamiento entre los jugadores) se los completa con los requerimientos y aspectos pedidos por los clientes. La ventaja es que como existe un reglamento debemos respetar prioritariamente las reglas y después observar lo que piden específicamente los clientes.  
+
+- En este proyecto se piden tres casos de uso, pero puede ocurrir que para que hay un desarrollo consistente, de acuerdo a las reglas, sea necesario desarrollar aquellos que sean "adyacentes" a ellos. En este caso tenemos una ayuda más para comprender el problema visto desde este punto de vista.  
+
+- Por el punto anterior es factible que cuando hayamos completado un caso de uso más "adyacente" respecto a otro tengamos más información para corregir al otro, pudiendo desafiar nuestras presunciones acerca de las precondiciones, los actores, los escenarios alternativos o la posible adición/eliminación de subcasos. Incluso podemos obtener información de un caso de uso para un módulo cuando terminamos un caso de uso de un módulo que es de más "bajo nivel" o que sería un submódulo de este último. También debemos considerar que si los módulos sirven para gestionar servicios más generales, la parte dinámica de cierta pieza de software o la parte estática, las interacciones entre subsistemas.  
 
 #### Diagrama de Flujo de Datos  
 
@@ -38,8 +46,13 @@ Conclusiones que he sacado haciendo el proyecto
 ## Feedback (evaluación)
 
 * Se hace énfasis en la comunicación verbal y ser preciso. Quizá está bien tratar de explicar el proceso por el cual se decidió tomar una clase como parte de otra, una burbuja como un proceso de alto nivel, o la interpretación de un enunciado sobre los requerimientos por parte de un profesor.  
+
+* Se hace énfasis en considerar el proyecto como una forma de construir los puntos de vista del sistema.  
+
 * Cuando dicen ser general respecto al alcance se refieren a explicar desde lo general del software (en este proyecto nos referimos concretamente al juego "Secret Voldemort") hasta el módulo, no partiendo del módulo que se toma para evaluar.  
+
 * En general los casos de uso se basan en lo intercambiado con los profesores y esto se intentó hacer ver reflejado en la descripción de cada uno de ellos. Un tema importante es la consistencia entre diagramas y los casos de uso. En la forma en que hice este proyecto no se ve del todo y esto se debe a que se estuvo trabajando y modificando los diagramas mientras se redactaban y modificaban los casos de uso. En consecuencia ocurrieron inconcistencias a nivel de relación de elementos y agregación/eliminación de elementos, tanto para las clases propuetas como para los procesos pensados y reflejados en el DFD.  
+
 * Otros problemas pueden traer las clases que sirven como medio de interación entre otras clases, ya que tenemos que tener en cuenta qué es lo que intercambian, qué datos deben compartir (se puede traducir en un atributo que es accesible para otras clases), y si es una clase padre para las clases que tienen ciertas relaciones.  
 
 #### Parte de la evaluación (revisión del módulo de Partidas)
