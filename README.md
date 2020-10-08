@@ -26,7 +26,8 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 
 ### Lecturas (propias) en la Web  
 
-* [The Joel Test: 12 Steps to Better Code (https://www.joelonsoftware.com/)](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
+#### https://www.joelonsoftware.com/ (el blog de Joel Spolsky)
+* [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
 Nota: No seas un "gunslinger".  
 * [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
 * [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/)  
