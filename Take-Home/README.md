@@ -30,7 +30,7 @@ Conclusiones que he sacado haciendo el proyecto
 #### Diagrama de Flujo de Datos  
 
 
-### Diagrama de clases  
+#### Diagrama de clases  
 
 
 ---
