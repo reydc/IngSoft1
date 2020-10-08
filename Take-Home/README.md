@@ -27,7 +27,7 @@ Conclusiones que he sacado haciendo el proyecto
 
 - Sin embargo nos piden desarrollar módulos en un mismo producto. En este caso parece que la dificultad es la descripción consistente, en distintos niveles, de los módulos y la posible interacción entre ellos. Entonces hay que considerar como organizar cada módulo de forma que esa organización tenga una alta cohesión y un bajo acoplamiento para las tareas que son requeridas en el proyecto, cuidando la comunicación con los clientes (profesores).  
 
-- Las decisiones en la etapa de análisis impactan al diseño. Acá podemos apreciar cómo es que el modelado y el análisis nos pueden llevar a diseñar muchos más aspectos de los que realmente deseamos.  
+- Las decisiones en la etapa de análisis son impactadas por cierta concepción en el posible diseño. Acá podemos apreciar cómo es que el modelado y el análisis nos pueden llevar a diseñar muchos más aspectos de los que realmente deseamos o que tengamos un cierto sesgo hacia diseñar cuando nos piden modelar.  
 
 #### Casos de uso  
 
