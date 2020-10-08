@@ -1,5 +1,5 @@
 # IngSoft1
-Notas y referencias para la materia de Ingeniería de Software I de FaMAFyC
+Notas y referencias para la materia de Ingeniería de Software I de FaMAFyC/FaMAF
 
 ### Referencias de la materia
 
