@@ -15,6 +15,14 @@ Para cada uno de ellos se debe entregar:
 
 Tiempo de entrega: 1 semana y 5 días
 
+---
+
+### Observaciones sobre proyectos de este tipo (alumno)
+
+
+
+---
+
 ### Feedback (evaluación)
 
 * Se hace énfasis en la comunicación verbal y ser preciso. Quizá está bien tratar de explicar el proceso por el cual se decidió tomar una clase como parte de otra, una burbuja como un proceso de alto nivel, o la interpretación de un enunciado sobre los requerimientos por parte de un profesor.  
