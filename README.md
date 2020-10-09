@@ -34,11 +34,11 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 #### Orientación a Objetos
 
 * [SOLID (https://en.wikipedia.org)](https://en.wikipedia.org/wiki/SOLID)  
-Nota: Ver los pdfs archivados al final.
+Nota: Ver los pdf's archivados al final.
 
 #### Scrum  
 
-* [Las guías de Scrum](https://scrumguides.org/), hay pdfs en varios idiomas  
+* [Las guías de Scrum](https://scrumguides.org/), hay pdf's en varios idiomas  
 * [The Scrum Papers (http://jeffsutherland.com, archivado)](https://web.archive.org/web/20150814201800/http://jeffsutherland.com/ScrumPapers.pdf)  
 * [The Scrum Software Development Process for Small Teams (IEEE Software, 2000)](https://web.archive.org/web/20061027213837/http://members.cox.net/risingl1/articles/IEEEScrum.pdf)  
 
