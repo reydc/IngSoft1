@@ -3,13 +3,16 @@ Notas y referencias para la materia de Ingeniería de Software I de FaMAFyC/FaMA
 
 ### Referencias de la materia
 
-* Jalote, Pankaj - An Integrated Approach to Software Engineering (3rd ed., Springer, 2005)  
+* Jalote, Pankaj - An Integrated Approach to Software Engineering (3rd Ed., Springer, 2005)  
 * Brooks, Frederick P. - The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition, Addison-Wesley, 1995)  
 * [IEEE Standard 830:tm:-1998 (R2009) - IEEE Recommended Practice for Software Requirements Specifications](https://web.archive.org/web/20200331150414/https://cse.msu.edu/~cse870/IEEEXplore-SRS-template.pdf)  
 
 ### Referencias complementarias
 
 * [Ko, Amy J. - Cooperative Software Development](https://faculty.washington.edu/ajko/books/cooperative-software-development/#/)  
+* Meyer, Bertrand - Object-Oriented Software Construction (2nd Ed.)  
+* Gamma, Helm, Johnson, Vlissides, - Design Patterns: Elements of Reusable Object-Oriented Software  
+* Martin, Robert C. - Clean Code: A Handbook of Agile Software Craftsmanship  
 
 ### Artículos
 
