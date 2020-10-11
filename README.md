@@ -27,6 +27,13 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 * [Computer Program Fixes Old Code Faster than Expert Engineers (https://thelasttechie.com, archivado)](https://web.archive.org/web/20161105164220/https://thelasttechie.com/2016/09/15/computer-program-fixes-old-code-faster-than-expert-engineers/)  
 * [Practical UML: A Hands-On Introduction for Developers (http://edn.embarcadero.com, archivado)](https://archive.is/evoLk)  
 
+### Convenciones/Estilos de programación
+
+* [Code Conventions for the Java Programming Language](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html)  
+* [Mozilla Coding style](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html)  
+* [Linux kernel coding style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html)  
+* [GNU coding standards](https://www.gnu.org/prep/standards/)  
+
 ### Lecturas (propias) en la Web  
 
 #### Panorama general
