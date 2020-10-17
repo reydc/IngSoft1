@@ -65,6 +65,14 @@ Nota: Ver los pdf's archivados al final.
 * [Agile Vs. DevOps: What’s the difference? (https://www.guru99.com)](https://www.guru99.com/agile-vs-devops.html)  
 * [DevOps methodology and process (https://medium.com/@raycad.seedotech)](https://medium.com/@raycad.seedotech/devops-methodology-and-process-dde388eb65bd)  
 
+#### Diseño para las APIs
+
+* []()  
+* []()  
+* []()  
+* []()  
+
+
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
