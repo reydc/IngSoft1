@@ -67,11 +67,12 @@ Nota: Ver los pdf's archivados al final.
 
 #### Diseño para las APIs
 
-* []()  
-* []()  
-* []()  
-* []()  
-
+* [10+ Best Practices for Naming API Endpoints (nordicapis.com)](https://nordicapis.com/10-best-practices-for-naming-api-endpoints/)  
+* [Naming and Creating API Endpoints (dev.to)](https://dev.to/_mertsimsek/naming-and-creating-api-endpoints-340i)  
+* [REST URI convention - Singular or plural name of resource while creating it (stackoverflow.com)](https://stackoverflow.com/questions/6845772/rest-uri-convention-singular-or-plural-name-of-resource-while-creating-it)  
+* [REST API Login Pattern (stackoverflow.com)](https://stackoverflow.com/questions/13916620/rest-api-login-pattern)  
+* [Profile/account REST API naming convention (stackoverflow.com)](https://stackoverflow.com/questions/30762739/profile-account-rest-api-naming-convention)  
+* [HTTP Status Codes (restfulapi.net)](https://restfulapi.net/http-status-codes/)  
 
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
