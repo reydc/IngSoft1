@@ -72,6 +72,8 @@ Nota: Ver los pdf's archivados al final.
 * [REST URI convention - Singular or plural name of resource while creating it (stackoverflow.com)](https://stackoverflow.com/questions/6845772/rest-uri-convention-singular-or-plural-name-of-resource-while-creating-it)  
 * [REST API Login Pattern (stackoverflow.com)](https://stackoverflow.com/questions/13916620/rest-api-login-pattern)  
 * [Profile/account REST API naming convention (stackoverflow.com)](https://stackoverflow.com/questions/30762739/profile-account-rest-api-naming-convention)  
+* [HTTP status code for update and delete? (stackoverflow.com)](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete)  
+* [What is the HTTP status return code for a successful DELETE statement in REST? (stackoverflow.com)](https://stackoverflow.com/questions/29545861/what-is-the-http-status-return-code-for-a-successful-delete-statement-in-rest/29574521)  
 * [HTTP Status Codes (restfulapi.net)](https://restfulapi.net/http-status-codes/)  
 
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
