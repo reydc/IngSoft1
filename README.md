@@ -76,6 +76,7 @@ Nota: Ver los pdf's archivados al final.
 * [What is the HTTP status return code for a successful DELETE statement in REST? (stackoverflow.com)](https://stackoverflow.com/questions/29545861/what-is-the-http-status-return-code-for-a-successful-delete-statement-in-rest/29574521)  
 * [what is the restful service http code for update failure (stackoverflow.com)](https://stackoverflow.com/questions/18944347/what-is-the-restful-service-http-code-for-update-failure)  
 * [HTTP Status Codes (restfulapi.net)](https://restfulapi.net/http-status-codes/)  
+* [HTTP Status Codes (www.restapitutorial.com)](https://www.restapitutorial.com/httpstatuscodes.html)  
 
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
