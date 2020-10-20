@@ -41,6 +41,7 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 * [A Visual Git Reference (marklodato.github.io)](https://marklodato.github.io/visual-git-guide/index-en.html)  
 * [Visualizing Git Concepts with D3 (onlywei.github.io)](https://onlywei.github.io/explain-git-with-d3/)  
 * [Git Cheatsheet (ndpsoftware.com)](http://ndpsoftware.com/git-cheatsheet.html)  
+* [git config (www.atlassian.com)](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)  
 * [.gitignore (www.atlassian.com)](https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns)  
 
 ### Lecturas (propias) en la Web  
