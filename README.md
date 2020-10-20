@@ -76,6 +76,7 @@ Nota: Ver los pdf's archivados al final.
 * [HTTP status code for update and delete? (stackoverflow.com)](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete)  
 * [What is the HTTP status return code for a successful DELETE statement in REST? (stackoverflow.com)](https://stackoverflow.com/questions/29545861/what-is-the-http-status-return-code-for-a-successful-delete-statement-in-rest/29574521)  
 * [what is the restful service http code for update failure (stackoverflow.com)](https://stackoverflow.com/questions/18944347/what-is-the-restful-service-http-code-for-update-failure)  
+* [What HTTP error code for failure to create a new resource because a parent entity is gone (stackoverflow.com)](https://stackoverflow.com/questions/7088414/what-http-error-code-for-failure-to-create-a-new-resource-because-a-parent-entit)  
 * [HTTP Status Codes (restfulapi.net)](https://restfulapi.net/http-status-codes/)  
 * [HTTP Status Codes (www.restapitutorial.com)](https://www.restapitutorial.com/httpstatuscodes.html)  
 
