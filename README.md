@@ -88,7 +88,7 @@ Nota: Ver los pdf's archivados al final.
 * [The best way to securely manage user sessions (supertokens.io)](https://supertokens.io/blog/the-best-way-to-securely-manage-user-sessions)
 * [The OAuth 2.0 Authorization Framework: Bearer Token Usage (tools.ietf.org)](https://tools.ietf.org/html/rfc6750)  
 * [Demystifying authentication with FastAPI and a frontend (www.strio.co)](https://www.strio.co/blog/authentication-guide-with-fastapi/)  
-* [ ()]()  
+* [FastAPI — How to add basic and cookie authentication (medium.com)](https://medium.com/data-rebels/fastapi-how-to-add-basic-and-cookie-authentication-a45c85ef47d3)  
 
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
