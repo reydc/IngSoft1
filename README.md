@@ -43,7 +43,7 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 * [Git Cheatsheet (ndpsoftware.com)](http://ndpsoftware.com/git-cheatsheet.html)  
 * [git config (www.atlassian.com)](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)  
 * [.gitignore (www.atlassian.com)](https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns)  
-* [Making a Pull Request (www.atlassian.com)](https://www.atlassian.com/git/tutorials/making-a-pull-request)
+* [Making a Pull Request (www.atlassian.com)](https://www.atlassian.com/git/tutorials/making-a-pull-request)  
 
 ### Lecturas (propias) en la Web  
 
@@ -84,6 +84,7 @@ Nota: Ver los pdf's archivados al final.
 
 #### Desarrollo para las APIs
 
+* [Why does the registered domain name “localtest.me” resolve to 127.0.0.1? (superuser.com)](https://superuser.com/questions/1280827/why-does-the-registered-domain-name-localtest-me-resolve-to-127-0-0-1)  
 * [Are you using JWTs for user sessions in the correct way? (supertokens.io)](https://supertokens.io/blog/are-you-using-jwts-for-user-sessions-in-the-correct-way)  
 * [All you need to know about user session security (supertokens.io)](https://supertokens.io/blog/all-you-need-to-know-about-user-session-security)  
 * [The best way to securely manage user sessions (supertokens.io)](https://supertokens.io/blog/the-best-way-to-securely-manage-user-sessions)
