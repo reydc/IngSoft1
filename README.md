@@ -81,6 +81,13 @@ Nota: Ver los pdf's archivados al final.
 * [HTTP Status Codes (restfulapi.net)](https://restfulapi.net/http-status-codes/)  
 * [HTTP Status Codes (www.restapitutorial.com)](https://www.restapitutorial.com/httpstatuscodes.html)  
 
+#### Desarrollo para las APIs
+
+* [Are you using JWTs for user sessions in the correct way? (supertokens.io)](https://supertokens.io/blog/are-you-using-jwts-for-user-sessions-in-the-correct-way)  
+* [ ()]()  
+* [ ()]()  
+* [ ()]()  
+
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
