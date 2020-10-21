@@ -84,7 +84,7 @@ Nota: Ver los pdf's archivados al final.
 #### Desarrollo para las APIs
 
 * [Are you using JWTs for user sessions in the correct way? (supertokens.io)](https://supertokens.io/blog/are-you-using-jwts-for-user-sessions-in-the-correct-way)  
-* [ ()]()  
+* [The OAuth 2.0 Authorization Framework: Bearer Token Usage (tools.ietf.org)](https://tools.ietf.org/html/rfc6750)  
 * [ ()]()  
 * [ ()]()  
 
