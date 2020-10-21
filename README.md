@@ -87,7 +87,7 @@ Nota: Ver los pdf's archivados al final.
 * [All you need to know about user session security (supertokens.io)](https://supertokens.io/blog/all-you-need-to-know-about-user-session-security)  
 * [The best way to securely manage user sessions (supertokens.io)](https://supertokens.io/blog/the-best-way-to-securely-manage-user-sessions)
 * [The OAuth 2.0 Authorization Framework: Bearer Token Usage (tools.ietf.org)](https://tools.ietf.org/html/rfc6750)  
-* [ ()]()  
+* [Demystifying authentication with FastAPI and a frontend (www.strio.co)](https://www.strio.co/blog/authentication-guide-with-fastapi/)  
 * [ ()]()  
 
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
