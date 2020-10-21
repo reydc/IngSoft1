@@ -43,6 +43,7 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 * [Git Cheatsheet (ndpsoftware.com)](http://ndpsoftware.com/git-cheatsheet.html)  
 * [git config (www.atlassian.com)](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)  
 * [.gitignore (www.atlassian.com)](https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns)  
+* [Making a Pull Request (www.atlassian.com)](https://www.atlassian.com/git/tutorials/making-a-pull-request)
 
 ### Lecturas (propias) en la Web  
 
