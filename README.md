@@ -92,6 +92,10 @@ Nota: Ver los pdf's archivados al final.
 * [Demystifying authentication with FastAPI and a frontend (www.strio.co)](https://www.strio.co/blog/authentication-guide-with-fastapi/)  
 * [FastAPI — How to add basic and cookie authentication (medium.com)](https://medium.com/data-rebels/fastapi-how-to-add-basic-and-cookie-authentication-a45c85ef47d3)  
 
+#### Python
+
+* [Overload Functions in Python (www.codementor.io)](https://www.codementor.io/@arpitbhayani/overload-functions-in-python-13e32ahzqt)  
+
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
