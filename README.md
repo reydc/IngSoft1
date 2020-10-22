@@ -92,6 +92,7 @@ Nota: Ver los pdf's archivados al final.
 * [Demystifying authentication with FastAPI and a frontend (www.strio.co)](https://www.strio.co/blog/authentication-guide-with-fastapi/)  
 * [FastAPI — How to add basic and cookie authentication (medium.com)](https://medium.com/data-rebels/fastapi-how-to-add-basic-and-cookie-authentication-a45c85ef47d3)  
 * [Should I use CSRF protection on Rest API endpoints? (security.stackexchange.com)](https://security.stackexchange.com/questions/166724/should-i-use-csrf-protection-on-rest-api-endpoints)  
+* [[QUESTION] Help with session variables #212 (github.com)](https://github.com/tiangolo/fastapi/issues/212)  
 
 #### Python
 
