@@ -85,10 +85,12 @@ Nota: Ver los pdf's archivados al final.
 #### Desarrollo para las APIs
 
 * [Why does the registered domain name “localtest.me” resolve to 127.0.0.1? (superuser.com)](https://superuser.com/questions/1280827/why-does-the-registered-domain-name-localtest-me-resolve-to-127-0-0-1)  
+* [WHAT IS JSON WEB TOKEN? (auth0.com)](https://auth0.com/learn/json-web-tokens/)  
 * [Are you using JWTs for user sessions in the correct way? (supertokens.io)](https://supertokens.io/blog/are-you-using-jwts-for-user-sessions-in-the-correct-way)  
 * [All you need to know about user session security (supertokens.io)](https://supertokens.io/blog/all-you-need-to-know-about-user-session-security)  
 * [The best way to securely manage user sessions (supertokens.io)](https://supertokens.io/blog/the-best-way-to-securely-manage-user-sessions)
 * [The OAuth 2.0 Authorization Framework: Bearer Token Usage (tools.ietf.org)](https://tools.ietf.org/html/rfc6750)  
+* [Revoking JWTs & JWT Expiration (fusionauth.io)](https://fusionauth.io/learn/expert-advice/tokens/revoking-jwts)  
 * [Demystifying authentication with FastAPI and a frontend (www.strio.co)](https://www.strio.co/blog/authentication-guide-with-fastapi/)  
 * [FastAPI — How to add basic and cookie authentication (medium.com)](https://medium.com/data-rebels/fastapi-how-to-add-basic-and-cookie-authentication-a45c85ef47d3)  
 * [Should I use CSRF protection on Rest API endpoints? (security.stackexchange.com)](https://security.stackexchange.com/questions/166724/should-i-use-csrf-protection-on-rest-api-endpoints)  
