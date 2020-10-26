@@ -100,6 +100,14 @@ Nota: Ver los pdf's archivados al final.
 
 * [Overload Functions in Python (www.codementor.io)](https://www.codementor.io/@arpitbhayani/overload-functions-in-python-13e32ahzqt)  
 
+#### Pytest
+
+* [Full pytest documentation (docs.pytest.org)](https://docs.pytest.org/en/latest/contents.html)  
+* [Pytest API Reference (docs.pytest.org)](https://docs.pytest.org/en/latest/reference.html)  
+* [unittest.TestCase Support (docs.pytest.org)](https://docs.pytest.org/en/stable/unittest.html)  
+* [Monkeypatching/mocking modules and environments (docs.pytest.org)](https://docs.pytest.org/en/latest/monkeypatch.html)  
+* [How to print to console in pytest? (stackoverflow.com)](https://stackoverflow.com/questions/24617397/how-to-print-to-console-in-pytest)  
+
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
