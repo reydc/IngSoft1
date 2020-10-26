@@ -100,8 +100,9 @@ Nota: Ver los pdf's archivados al final.
 
 * [Overload Functions in Python (www.codementor.io)](https://www.codementor.io/@arpitbhayani/overload-functions-in-python-13e32ahzqt)  
 
-#### Pytest
+#### Testing
 
+* [Coverage.py (coverage.readthedocs.io)](https://coverage.readthedocs.io/en/coverage-5.3/#:~:text=Coverage.py%20is%20a%20tool,gauge%20the%20effectiveness%20of%20tests.)  
 * [Full pytest documentation (docs.pytest.org)](https://docs.pytest.org/en/latest/contents.html)  
 * [Pytest API Reference (docs.pytest.org)](https://docs.pytest.org/en/latest/reference.html)  
 * [unittest.TestCase Support (docs.pytest.org)](https://docs.pytest.org/en/stable/unittest.html)  
