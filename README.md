@@ -34,7 +34,7 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 * [Linux kernel coding style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html)  
 * [GNU coding standards](https://www.gnu.org/prep/standards/)  
 
-#### Git
+#### Git, GitHub, etc
 
 * [Why the index/staging area is so useful (gitolite.com)](https://gitolite.com/uses-of-index.html)  
 * [Git Merge vs. Rebase: What’s the Diff? (hackernoon.com)](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)  
@@ -44,6 +44,7 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 * [git config (www.atlassian.com)](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)  
 * [.gitignore (www.atlassian.com)](https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns)  
 * [Making a Pull Request (www.atlassian.com)](https://www.atlassian.com/git/tutorials/making-a-pull-request)  
+* [How to Use GitHub: Fork, Branch, Track, Squash and Pull Request (www.gun.io)](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request)  
 
 ### Lecturas (propias) en la Web  
 
