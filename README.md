@@ -44,7 +44,8 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 * [git config (www.atlassian.com)](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)  
 * [.gitignore (www.atlassian.com)](https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns)  
 * [Making a Pull Request (www.atlassian.com)](https://www.atlassian.com/git/tutorials/making-a-pull-request)  
-* [How to Use GitHub: Fork, Branch, Track, Squash and Pull Request (www.gun.io)](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request)  
+* [How to Use GitHub: Fork, Branch, Track, Squash and Pull Request (www.gun.io)](https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request)  * [Git tracking branches (stackoverflow.com)](https://stackoverflow.com/questions/36527541/git-tracking-branches)  
+* [“git remote show origin”: why all branches show “tracked” even when some aren't? (stackoverflow.com)](https://stackoverflow.com/questions/28377688/git-remote-show-origin-why-all-branches-show-tracked-even-when-some-arent)  
 
 ### Lecturas (propias) en la Web  
 
