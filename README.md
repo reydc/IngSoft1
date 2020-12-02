@@ -97,6 +97,7 @@ Nota: Ver los pdf's archivados al final.
 * [FastAPI — How to add basic and cookie authentication (medium.com)](https://medium.com/data-rebels/fastapi-how-to-add-basic-and-cookie-authentication-a45c85ef47d3)  
 * [Should I use CSRF protection on Rest API endpoints? (security.stackexchange.com)](https://security.stackexchange.com/questions/166724/should-i-use-csrf-protection-on-rest-api-endpoints)  
 * [[QUESTION] Help with session variables #212 (github.com)](https://github.com/tiangolo/fastapi/issues/212)  
+* [How to test against UploadFile parameter (github.com)](https://github.com/tiangolo/fastapi/issues/1536)  
 
 #### Python
 
@@ -112,6 +113,30 @@ Nota: Ver los pdf's archivados al final.
 * [How to print to console in pytest? (stackoverflow.com)](https://stackoverflow.com/questions/24617397/how-to-print-to-console-in-pytest)  
 
 #### Front, React, Redux, Node, APIs para el front
+
+* [Using the Effect Hook (reactjs.org)](https://reactjs.org/docs/hooks-effect.html)  
+* [Using the State Hook (reactjs.org))](https://reactjs.org/docs/hooks-state.html)  
+* [Connect: Extracting Data with mapStateToProps (react-redux.js.org)](https://react-redux.js.org/using-react-redux/connect-mapstate)  
+* [Connect: Dispatching Actions with mapDispatchToProps (react-redux.js.org)](https://react-redux.js.org/using-react-redux/connect-mapdispatch)  
+* [Accessing the Store (react-redux.js.org)](https://react-redux.js.org/using-react-redux/accessing-store)  
+* [Provider API (react-redux.js.org)](https://react-redux.js.org/api/provider)  
+* [4 WAYS TO DISPATCH ACTIONS WITH REDUX (blog.bam.tech)](https://blog.bam.tech/developer-news/4-ways-to-dispatch-actions-with-redux)  
+* [React Router Tutorial – How to Render, Redirect, Switch, Link, and More, With Code Examples (www.freecodecamp.org)](https://www.freecodecamp.org/news/react-router-tutorial/)  
+* [Using React Hooks to sync your component state and the URL Query string (medium.com)](https://medium.com/swlh/using-react-hooks-to-sync-your-component-state-with-the-url-query-string-81ccdfcb174f)  
+* [React Authentication: How to Store JWT in a Cookie (medium.com)](https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81)  
+* [Client-side Authentication the Right Way (Cookies vs. Local Storage) (www.taniarascia.com)](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)  
+* [React Redux Login, Logout, Registration example with Hooks (bezkoder.com)](https://bezkoder.com/react-hooks-redux-login-registration-example/)  
+* [How to Abort a Request While Navigating Away From the Component in React (www.pluralsight.com)](https://www.pluralsight.com/guides/how-to-abort-request-while-navigating-away-from-the-component-in-react)  
+* [Your Guide to React.useCallback() (dmitripavlutin.com)](https://dmitripavlutin.com/dont-overuse-react-usecallback/)  
+* [How to store an image in Redux (medium.com)](https://medium.com/@gabriele.cimato/on-how-to-store-an-image-in-redux-d623bcc06ca7)  
+* [A simple way to save your Redux state in localStorage (gist.github.com)](https://gist.github.com/andrew8088/6b7ce243934a083ba554)
+* [Building React Applications with Idiomatic Redux (egghead.io)](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)  
+* [Como mantener datos del Store de Redux en localStorage() (medium.com)](https://medium.com/@augustolzd/como-mantener-datos-del-store-de-redux-en-localstorage-fc419b60a2bf)  
+* [LocalStorage vs sessionStorage (medium.com)](https://medium.com/javascript-in-plain-english/localstorage-vs-sessionstorage-c22164aff067)  
+* [Copying Objects in JavaScript (www.digitalocean.com)](https://www.digitalocean.com/community/tutorials/copying-objects-in-javascript)  
+* [Spread syntax (...) (developer.mozilla.org)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)  
+* [Styling & Customizing File Inputs the Smart Way (tympanus.net)](https://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/)  
+* [How To Pass Multiple Route Parameters in a React URL Path (medium.com)](https://medium.com/better-programming/how-to-pass-multiple-route-parameters-in-a-react-url-path-4b919de0abbe#:~:text=Route%20params%20are%20parameters%20whose,data%20based%20on%20the%20parameter.)  
 
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
