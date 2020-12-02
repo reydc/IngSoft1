@@ -120,6 +120,7 @@ Nota: Ver los pdf's archivados al final.
 * [Connect: Dispatching Actions with mapDispatchToProps (react-redux.js.org)](https://react-redux.js.org/using-react-redux/connect-mapdispatch)  
 * [Accessing the Store (react-redux.js.org)](https://react-redux.js.org/using-react-redux/accessing-store)  
 * [Provider API (react-redux.js.org)](https://react-redux.js.org/api/provider)  
+* [applyMiddleware(...middleware) (redux.js.org)](https://redux.js.org/api/applymiddleware/)  
 * [4 WAYS TO DISPATCH ACTIONS WITH REDUX (blog.bam.tech)](https://blog.bam.tech/developer-news/4-ways-to-dispatch-actions-with-redux)  
 * [React Router Tutorial – How to Render, Redirect, Switch, Link, and More, With Code Examples (www.freecodecamp.org)](https://www.freecodecamp.org/news/react-router-tutorial/)  
 * [Using React Hooks to sync your component state and the URL Query string (medium.com)](https://medium.com/swlh/using-react-hooks-to-sync-your-component-state-with-the-url-query-string-81ccdfcb174f)  
@@ -148,7 +149,9 @@ Nota: Ver los pdf's archivados al final.
 * [Making setInterval Declarative with React Hooks (overreacted.io)](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)  
 * [How to use the setInterval in React (including hooks) (reactgo.com)](https://reactgo.com/react-setinterval/)  
 * [Memory leaks while developing with create-react-app (www.reddit.com)](https://www.reddit.com/r/firefox/comments/h0xcsk/memory_leaks_while_developing_with_createreactapp/)  
-  
+* [Write your own WebSocket middleware for React/Redux in 4 Steps (dev.to)](https://dev.to/aduranil/how-to-use-websockets-with-redux-a-step-by-step-guide-to-writing-understanding-connecting-socket-middleware-to-your-project-km3)  
+* [Creating custom Middleware in React/Redux (medium.com)](https://medium.com/netscape/creating-custom-middleware-in-react-redux-961570459ecb)  
+
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
