@@ -115,7 +115,7 @@ Nota: Ver los pdf's archivados al final.
 #### Front, React, Redux, Node, APIs para el front
 
 * [Using the Effect Hook (reactjs.org)](https://reactjs.org/docs/hooks-effect.html)  
-* [Using the State Hook (reactjs.org))](https://reactjs.org/docs/hooks-state.html)  
+* [Using the State Hook (reactjs.org)](https://reactjs.org/docs/hooks-state.html)  
 * [Connect: Extracting Data with mapStateToProps (react-redux.js.org)](https://react-redux.js.org/using-react-redux/connect-mapstate)  
 * [Connect: Dispatching Actions with mapDispatchToProps (react-redux.js.org)](https://react-redux.js.org/using-react-redux/connect-mapdispatch)  
 * [Accessing the Store (react-redux.js.org)](https://react-redux.js.org/using-react-redux/accessing-store)  
@@ -137,7 +137,18 @@ Nota: Ver los pdf's archivados al final.
 * [Spread syntax (...) (developer.mozilla.org)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)  
 * [Styling & Customizing File Inputs the Smart Way (tympanus.net)](https://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/)  
 * [How To Pass Multiple Route Parameters in a React URL Path (medium.com)](https://medium.com/better-programming/how-to-pass-multiple-route-parameters-in-a-react-url-path-4b919de0abbe#:~:text=Route%20params%20are%20parameters%20whose,data%20based%20on%20the%20parameter.)  
-
+* [Prompt user with beforeunload on browser tab close React App (inthetechpit.com)](https://inthetechpit.com/2020/05/19/prompt-user-with-beforeunload-on-browser-tab-close-react-app/)  
+* [Window API (developer.mozilla.org)](https://developer.mozilla.org/en-US/docs/Web/API/Window)  
+* [Using the Beacon API (developer.mozilla.org)](https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API/Using_the_Beacon_API)  
+* [How to display component using react-router <Prompt> to prevent or allow route change (stackoverflow.com)](https://stackoverflow.com/questions/56664622/how-to-display-component-using-react-router-prompt-to-prevent-or-allow-route-c)  
+* [Clearing redux state on close of browser tab (www.codeproject.com)](https://www.codeproject.com/Questions/5263048/Clearing-redux-state-on-close-of-browser-tab)  
+* [React Native: Stop Using Ngrok to Test Your Backend (medium.com)](https://medium.com/swlh/react-native-stop-using-ngrok-to-test-your-backend-95183c9cfa81)  
+* [How to Implement Data Polling with React, Redux, and Thunk (www.codeproject.com)](https://www.codeproject.com/Articles/1363210/How-to-implement-data-polling-with-React-Redux-and)  
+* [Polling in React using the useInterval Custom Hook (blog.bitsrc.io)](https://blog.bitsrc.io/polling-in-react-using-the-useinterval-custom-hook-e2bcefda4197)
+* [Making setInterval Declarative with React Hooks (overreacted.io)](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)  
+* [How to use the setInterval in React (including hooks) (reactgo.com)](https://reactgo.com/react-setinterval/)  
+* [Memory leaks while developing with create-react-app (www.reddit.com)](https://www.reddit.com/r/firefox/comments/h0xcsk/memory_leaks_while_developing_with_createreactapp/)  
+  
 #### El blog de Joel Spolsky (https://www.joelonsoftware.com)  
 
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)  
