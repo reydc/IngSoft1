@@ -53,6 +53,7 @@ Nota: Es también un capítulo de "The Mythical Man-Month".
 
 * [Cargo Cult Programming (http://www.softpanorama.org)](http://www.softpanorama.org/Skeptics/cargo_cult_programming.shtml)  
 * [Cargo Cult Software Engineering (https://stevemcconnell.com)](https://stevemcconnell.com/articles/cargo-cult-software-engineering/)  
+* [Technical Debt: Why it'll ruin your software (labcodes.com.br)](https://labcodes.com.br/blog/articles/tech-debt.html)  
 
 #### Orientación a Objetos
 
